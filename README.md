@@ -1,2 +1,2 @@
-# sync_sprint
+# SyncSprint
 Project Management System
